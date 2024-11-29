@@ -3,7 +3,7 @@ import uni1a.*;
 
 public class PruebaAudioVisual {
 	public static void main(String[] args) {
-        System.out.println("Hello from Eclipse!");
+        System.out.println("Hello from Eclipse! Alan");
 
         // Crear instancias de las subclases
         ContenidoAudiovisual[] contenidos = new ContenidoAudiovisual[3];
